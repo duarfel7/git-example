@@ -1,2 +1,2 @@
 # git-example
-GIt for IBM Project
+Git for IBM Project
